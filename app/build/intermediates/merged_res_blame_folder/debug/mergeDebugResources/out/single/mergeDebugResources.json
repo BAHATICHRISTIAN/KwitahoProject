@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_reglage.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_reglage.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_coche.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_coche.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/font_poppins_semibold.ttf.flat",
+        "source": "bi.kwitaho.app-main-56:/font/poppins_semibold.ttf"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable-nodpi_img_feuille_saine.jpg.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable-nodpi/img_feuille_saine.jpg"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/font_poppins_medium.ttf.flat",
+        "source": "bi.kwitaho.app-main-56:/font/poppins_medium.ttf"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_camera.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_fond_demarrage_fondu.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/fond_demarrage_fondu.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_saisie.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_saisie.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "bi.kwitaho.app-main-56:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_langue.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_langue.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_point_actif.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/point_actif.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_aide.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_aide.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_fond_entete.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/fond_entete.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_element_ligne_coche.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/element_ligne_coche.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_coche_cercle.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_coche_cercle.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_info.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_fragment_profil.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_profil.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_element_carte_astuce.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/element_carte_astuce.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "bi.kwitaho.app-main-56:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_fond_recherche.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/fond_recherche.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/xml_file_paths.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/xml/file_paths.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_vue_squelette_accueil.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/vue_squelette_accueil.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_fond_cercle_voile.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/fond_cercle_voile.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_element_miniature.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/element_miniature.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_fragment_analyse.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_analyse.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_fond_bas_degrade.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/fond_bas_degrade.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_fond_cercle_blanc.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/fond_cercle_blanc.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_personne.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_personne.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_historique.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_historique.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/font_poppins.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/font/poppins.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_element_maladie.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/element_maladie.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "bi.kwitaho.app-main-56:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "bi.kwitaho.app-main-56:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_fragment_maladies.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_maladies.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_fleche_retour.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_fleche_retour.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_fond_cercle_teinte.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/fond_cercle_teinte.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_dialogue_nom.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/dialogue_nom.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_fond_capture_bouton.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/fond_capture_bouton.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "bi.kwitaho.app-main-56:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable-nodpi_img_feuille_champ.jpg.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable-nodpi/img_feuille_champ.jpg"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable-nodpi_img_cbb.jpg.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable-nodpi/img_cbb.jpg"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_dialogue_preferences.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/dialogue_preferences.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_img_presentation_agriculteur.png.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/img_presentation_agriculteur.png"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_point_inactif.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/point_inactif.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_flash_desactive.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_flash_desactive.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_fragment_presentation.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_presentation.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_bouclier.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_bouclier.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "bi.kwitaho.app-main-56:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_fermer.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_fermer.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "bi.kwitaho.app-main-56:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_fragment_resultat.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_resultat.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_fond_carte_blanc.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/fond_carte_blanc.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_logo_feuille.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_logo_feuille.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_feuille.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_feuille.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_supprimer.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_supprimer.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_fond_demo_bandeau.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/fond_demo_bandeau.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_vue_squelette_liste.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/vue_squelette_liste.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_element_page_presentation.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/element_page_presentation.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable-nodpi_img_cgm.jpg.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable-nodpi/img_cgm.jpg"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_alerte.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_alerte.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_activite_principale.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/activite_principale.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_fragment_detail_maladie.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_detail_maladie.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_fragment_demarrage.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_demarrage.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_fragment_langue.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_langue.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_element_diagnostic.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/element_diagnostic.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/font_poppins_regular.ttf.flat",
+        "source": "bi.kwitaho.app-main-56:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/color_kw_nav_element.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/color/kw_nav_element.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/font_poppins_bold.ttf.flat",
+        "source": "bi.kwitaho.app-main-56:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/xml_data_extraction_rules.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_chevron_droite.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_chevron_droite.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_not_image.png.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/not_image.png"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_fond_pastille_maladie.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/fond_pastille_maladie.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "bi.kwitaho.app-main-56:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "bi.kwitaho.app-main-56:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_fond_accueil_entete.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/fond_accueil_entete.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_fond_haut_degrade.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/fond_haut_degrade.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_flash_active.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_flash_active.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_fond_bas_barre.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/fond_bas_barre.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_fragment_conseils.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_conseils.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_recherche.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_recherche.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_fond_etiquette_demo.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/fond_etiquette_demo.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_ampoule.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_ampoule.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_fond_haut_feuillet.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/fond_haut_feuillet.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_fragment_camera.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "bi.kwitaho.app-main-56:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_img_presentation_bouclier.png.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/img_presentation_bouclier.png"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_img_cmd.png.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/img_cmd.png"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/xml_backup_rules.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_lanceur_premier_plan.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_lanceur_premier_plan.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_scanner_cadre.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_scanner_cadre.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_logo_blanc.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_logo_blanc.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_cadenas.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_cadenas.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_img_cbsd.png.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/img_cbsd.png"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_fond_pastille_confiance.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/fond_pastille_confiance.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_fragment_historique.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_historique.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_fond_demarrage_fondu_bas.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/fond_demarrage_fondu_bas.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_img_2.png.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/img_2.png"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_accueil.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_accueil.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_galerie.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_galerie.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/layout_fragment_accueil.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_accueil.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_fleche_avant.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_fleche_avant.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-debug-54:/drawable_ic_bouclier_coche.xml.flat",
+        "source": "bi.kwitaho.app-main-56:/drawable/ic_bouclier_coche.xml"
+    }
+]

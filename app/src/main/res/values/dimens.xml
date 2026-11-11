@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="kw_marge">16dp</dimen>
+    <dimen name="kw_carte_rayon">14dp</dimen>
+    <dimen name="kw_carte_elevation">2dp</dimen>
+    <dimen name="kw_tactile">48dp</dimen>
+    <dimen name="kw_bouton_hauteur">52dp</dimen>
+    <dimen name="kw_bas_barre_hauteur">64dp</dimen>
+</resources>

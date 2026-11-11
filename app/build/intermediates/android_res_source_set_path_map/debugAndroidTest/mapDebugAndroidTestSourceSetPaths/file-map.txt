@@ -1,0 +1,5 @@
+bi.kwitaho.app.test.app-updated_navigation_xml-0 /home/christian/LOGICIEL/PROJET/Kwitaho/app/build/generated/updated_navigation_xml/debugAndroidTest
+bi.kwitaho.app.test.app-packageDebugAndroidTestResources-1 /home/christian/LOGICIEL/PROJET/Kwitaho/app/build/intermediates/incremental/debugAndroidTest/packageDebugAndroidTestResources/merged.dir
+bi.kwitaho.app.test.app-packageDebugAndroidTestResources-2 /home/christian/LOGICIEL/PROJET/Kwitaho/app/build/intermediates/incremental/debugAndroidTest/packageDebugAndroidTestResources/stripped.dir
+bi.kwitaho.app.test.app-debugAndroidTest-3 /home/christian/LOGICIEL/PROJET/Kwitaho/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+gradleHome-0 /home/christian/.gradle

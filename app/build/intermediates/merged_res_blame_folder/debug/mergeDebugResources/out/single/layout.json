@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/fragment_profil.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_profil.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/vue_squelette_liste.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/vue_squelette_liste.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/dialogue_preferences.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/dialogue_preferences.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/fragment_langue.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_langue.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/fragment_detail_maladie.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_detail_maladie.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/vue_squelette_accueil.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/vue_squelette_accueil.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/element_page_presentation.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/element_page_presentation.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/fragment_historique.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_historique.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/fragment_presentation.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_presentation.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/element_maladie.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/element_maladie.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/element_miniature.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/element_miniature.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/element_ligne_coche.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/element_ligne_coche.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/dialogue_nom.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/dialogue_nom.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/element_carte_astuce.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/element_carte_astuce.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/activite_principale.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/activite_principale.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/fragment_maladies.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_maladies.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/fragment_accueil.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_accueil.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/fragment_conseils.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_conseils.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/fragment_analyse.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_analyse.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/fragment_camera.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/element_diagnostic.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/element_diagnostic.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/fragment_demarrage.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_demarrage.xml"
+    },
+    {
+        "merged": "bi.kwitaho.app-mergeDebugResources-53:/layout/fragment_resultat.xml",
+        "source": "bi.kwitaho.app-main-56:/layout/fragment_resultat.xml"
+    }
+]

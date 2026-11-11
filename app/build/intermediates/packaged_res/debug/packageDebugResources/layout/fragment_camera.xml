@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/racine"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/noir">
+
+    <androidx.camera.view.PreviewView
+        android:id="@+id/apercu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:implementationMode="compatible"
+        app:scaleType="fillCenter" />
+
+    <bi.kwitaho.app.ui.widget.VueCadreScan
+        android:id="@+id/calque"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:id="@+id/barre_haut"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:background="@drawable/fond_haut_degrade"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingStart="12dp"
+        android:paddingTop="8dp"
+        android:paddingEnd="12dp"
+        android:paddingBottom="24dp">
+
+        <ImageButton
+            android:id="@+id/btn_retour_cam"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="@drawable/fond_cercle_voile"
+            android:contentDescription="@string/cam_retour"
+            android:src="@drawable/ic_fleche_retour"
+            app:tint="@color/blanc" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/txt_etape"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/blanc"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt_libelle_etape"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#E6FFFFFF"
+                android:textSize="13sp" />
+        </LinearLayout>
+
+        <ImageButton
+            android:id="@+id/btn_flash"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="@drawable/fond_cercle_voile"
+            android:contentDescription="@string/cam_flash"
+            android:src="@drawable/ic_flash_desactive"
+            app:tint="@color/blanc" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/panneau_bas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@drawable/fond_bas_degrade"
+        android:orientation="vertical"
+        android:paddingStart="16dp"
+        android:paddingTop="40dp"
+        android:paddingEnd="16dp"
+        android:paddingBottom="16dp">
+
+        <TextView
+            android:id="@+id/txt_astuce_cam"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/cam_astuce"
+            android:textColor="@color/blanc"
+            android:textSize="13sp" />
+
+        <LinearLayout
+            android:id="@+id/miniatures"
+            android:layout_width="wrap_content"
+            android:layout_height="64dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:orientation="horizontal" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp">
+
+            <ImageButton
+                android:id="@+id/btn_galerie"
+                android:layout_width="52dp"
+                android:layout_height="52dp"
+                android:layout_gravity="center_vertical|start"
+                android:background="@drawable/fond_cercle_voile"
+                android:contentDescription="@string/cam_galerie"
+                android:src="@drawable/ic_galerie"
+                app:tint="@color/blanc" />
+
+            <ImageButton
+                android:id="@+id/btn_capture"
+                android:layout_width="76dp"
+                android:layout_height="76dp"
+                android:layout_gravity="center"
+                android:background="@drawable/fond_capture_bouton"
+                android:contentDescription="@string/cam_capture" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btn_analyser"
+                style="@style/Widget.Kw.Button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|end"
+                android:minHeight="48dp"
+                android:text="@string/cam_analyser"
+                android:visibility="invisible" />
+        </FrameLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/panneau_perm"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/blanc"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="32dp"
+        android:visibility="gone">
+
+        <FrameLayout
+            android:layout_width="96dp"
+            android:layout_height="96dp"
+            android:background="@drawable/fond_cercle_teinte">
+
+            <ImageView
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center"
+                android:importantForAccessibility="no"
+                android:src="@drawable/ic_camera"
+                app:tint="@color/kw_primaire" />
+        </FrameLayout>
+
+        <TextView
+            style="@style/Kw.Text.Title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="@string/cam_perm_titre" />
+
+        <TextView
+            android:id="@+id/txt_texte_perm"
+            style="@style/Kw.Text.Body"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:text="@string/cam_perm_texte"
+            android:textColor="@color/kw_texte_secondaire" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_autoriser_perm"
+            style="@style/Widget.Kw.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="@string/cam_perm_autoriser" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_galerie_perm"
+            style="@style/Widget.Kw.Button.Tint"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/cam_galerie"
+            app:icon="@drawable/ic_galerie" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_retour_perm"
+            style="@style/Widget.Kw.Button.Text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="@string/cam_retour" />
+    </LinearLayout>
+</FrameLayout>

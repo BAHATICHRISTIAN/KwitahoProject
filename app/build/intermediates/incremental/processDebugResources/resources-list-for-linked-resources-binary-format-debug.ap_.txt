@@ -1,0 +1,1 @@
+/home/christian/LOGICIEL/PROJET/Kwitaho/app/build/intermediates/compiled_navigation_res/debug/compileDebugNavigationResources/navigation_graphe_navigation.xml.flat 

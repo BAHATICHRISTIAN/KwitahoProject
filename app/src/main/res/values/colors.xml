@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blanc">#FFFFFF</color>
+    <color name="noir">#000000</color>
+    <color name="kw_primaire">#2E7D32</color>
+    <color name="kw_primaire_fonce">#1B5E20</color>
+    <color name="kw_primaire_clair">#4CAF50</color>
+    <color name="kw_teinte">#E3F2E6</color>
+    <color name="kw_fond">#F1F5F2</color>
+    <color name="kw_texte">#1F2A37</color>
+    <color name="kw_texte_secondaire">#6B7280</color>
+    <color name="kw_separateur">#E5E7EB</color>
+    <color name="kw_nav_inactif">#8A9099</color>
+    <color name="kw_alerte_fond">#FFE9A8</color>
+    <color name="kw_alerte_texte">#7A5A00</color>
+    <color name="kw_alerte_icone">#F59E0B</color>
+    <color name="kw_erreur">#C62828</color>
+    <color name="kw_squelette_base">#E1E8E3</color>
+    <color name="kw_squelette_reflet">#F7FAF8</color>
+    <color name="kw_voile">#66000000</color>
+    <color name="kw_demo_fond">#FFF3CD</color>
+</resources>

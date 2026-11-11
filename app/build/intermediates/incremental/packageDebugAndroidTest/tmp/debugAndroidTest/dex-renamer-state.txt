@@ -1,0 +1,7 @@
+#Sun Nov 08 19:36:37 CET 2026
+base.0=/home/christian/LOGICIEL/PROJET/Kwitaho/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.1=/home/christian/LOGICIEL/PROJET/Kwitaho/app/build/intermediates/global_synthetics_dex/debugAndroidTest/generateDebugAndroidTestGlobalSynthetics/classes.dex
+path.0=0/classes.dex
+path.1=classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

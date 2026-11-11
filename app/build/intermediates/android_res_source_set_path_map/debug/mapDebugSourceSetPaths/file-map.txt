@@ -1,0 +1,8 @@
+bi.kwitaho.app-pngs-0 /home/christian/LOGICIEL/PROJET/Kwitaho/app/build/generated/res/pngs/debug
+bi.kwitaho.app-updated_navigation_xml-1 /home/christian/LOGICIEL/PROJET/Kwitaho/app/build/generated/updated_navigation_xml/debug
+bi.kwitaho.app-packageDebugResources-2 /home/christian/LOGICIEL/PROJET/Kwitaho/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+bi.kwitaho.app-packageDebugResources-3 /home/christian/LOGICIEL/PROJET/Kwitaho/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+bi.kwitaho.app-debug-4 /home/christian/LOGICIEL/PROJET/Kwitaho/app/build/intermediates/merged_res/debug/mergeDebugResources
+bi.kwitaho.app-debug-5 /home/christian/LOGICIEL/PROJET/Kwitaho/app/src/debug/res
+bi.kwitaho.app-main-6 /home/christian/LOGICIEL/PROJET/Kwitaho/app/src/main/res
+gradleHome-0 /home/christian/.gradle

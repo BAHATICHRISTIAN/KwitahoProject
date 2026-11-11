@@ -1,0 +1,49 @@
+<navigation
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:id="@+id/graphe_navigation"
+app:startDestination="@id/demarrageFragment" >
+<fragment
+    android:id="@+id/demarrageFragment"
+    android:name="bi.kwitaho.app.ui.DemarrageFragment" />
+<fragment
+    android:id="@+id/langueFragment"
+    android:name="bi.kwitaho.app.ui.LangueFragment" />
+<fragment
+    android:id="@+id/presentationFragment"
+    android:name="bi.kwitaho.app.ui.PresentationFragment" />
+<fragment
+    android:id="@+id/accueilFragment"
+    android:name="bi.kwitaho.app.ui.AccueilFragment"
+    android:label="@string/nom_app" />
+<fragment
+    android:id="@+id/historiqueFragment"
+    android:name="bi.kwitaho.app.ui.HistoriqueFragment"
+    android:label="@string/historique_titre" />
+<fragment
+    android:id="@+id/maladiesFragment"
+    android:name="bi.kwitaho.app.ui.MaladiesFragment"
+    android:label="@string/maladies_titre" />
+<fragment
+    android:id="@+id/profilFragment"
+    android:name="bi.kwitaho.app.ui.ProfilFragment"
+    android:label="@string/profil_titre" />
+<fragment
+    android:id="@+id/conseilsFragment"
+    android:name="bi.kwitaho.app.ui.ConseilsFragment"
+    android:label="@string/conseil_titre" />
+<fragment
+    android:id="@+id/cameraFragment"
+    android:name="bi.kwitaho.app.ui.CameraFragment" />
+<fragment
+    android:id="@+id/analyseFragment"
+    android:name="bi.kwitaho.app.ui.AnalyseFragment" />
+<fragment
+    android:id="@+id/resultatFragment"
+    android:name="bi.kwitaho.app.ui.ResultatFragment"
+    android:label="@string/resultat_titre" />
+<fragment
+    android:id="@+id/detailMaladieFragment"
+    android:name="bi.kwitaho.app.ui.DetailMaladieFragment"
+    android:label="@string/detail_titre" />
+</navigation>

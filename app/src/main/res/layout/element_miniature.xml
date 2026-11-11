@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="64dp"
+    android:layout_height="64dp"
+    android:layout_marginStart="6dp"
+    android:layout_marginEnd="6dp">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/img_miniature"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_gravity="bottom|start"
+        android:contentDescription="@null"
+        android:scaleType="centerCrop"
+        app:shapeAppearanceOverlay="@style/ShapeAppearance.Kw.Thumb"
+        app:strokeColor="@color/blanc"
+        app:strokeWidth="2dp" />
+
+    <ImageButton
+        android:id="@+id/btn_retirer"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_gravity="top|end"
+        android:background="@drawable/fond_cercle_blanc"
+        android:contentDescription="@string/cam_retirer"
+        android:padding="4dp"
+        android:src="@drawable/ic_fermer"
+        app:tint="@color/kw_texte" />
+</FrameLayout>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Kwitaho" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/kw_primaire</item>
+        <item name="colorOnPrimary">@color/blanc</item>
+        <item name="colorPrimaryContainer">@color/kw_teinte</item>
+        <item name="colorOnPrimaryContainer">@color/kw_primaire_fonce</item>
+        <item name="colorSecondary">@color/kw_primaire_clair</item>
+        <item name="colorOnSecondary">@color/blanc</item>
+        <item name="colorSecondaryContainer">@color/kw_teinte</item>
+        <item name="colorOnSecondaryContainer">@color/kw_primaire_fonce</item>
+        <item name="colorSurface">@color/blanc</item>
+        <item name="colorOnSurface">@color/kw_texte</item>
+        <item name="colorSurfaceVariant">@color/kw_teinte</item>
+        <item name="colorOnSurfaceVariant">@color/kw_texte_secondaire</item>
+        <item name="colorOutline">@color/kw_separateur</item>
+        <item name="colorError">@color/kw_erreur</item>
+        <item name="android:colorBackground">@color/kw_fond</item>
+        <item name="android:windowBackground">@color/kw_fond</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:textColorPrimary">@color/kw_texte</item>
+        <item name="android:textColorSecondary">@color/kw_texte_secondaire</item>
+    </style>
+
+    <style name="Widget.Kw.TextView" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColor">@color/kw_texte</item>
+    </style>
+
+    <!-- Textes -->
+    <style name="Kw.Text.Title" parent="Widget.Kw.TextView">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Kw.Text.Section" parent="Widget.Kw.TextView">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Kw.Text.Body" parent="Widget.Kw.TextView">
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineSpacingMultiplier">1.15</item>
+    </style>
+    <style name="Kw.Text.Secondary" parent="Widget.Kw.TextView">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/kw_texte_secondaire</item>
+    </style>
+
+    <!-- Boutons -->
+    <style name="Widget.Kw.Button" parent="Widget.Material3.Button">
+        <item name="android:minHeight">@dimen/kw_bouton_hauteur</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="cornerRadius">14dp</item>
+        <item name="backgroundTint">@color/kw_primaire</item>
+        <item name="android:textColor">@color/blanc</item>
+    </style>
+    <style name="Widget.Kw.Button.Tint" parent="Widget.Material3.Button.TonalButton">
+        <item name="android:minHeight">@dimen/kw_tactile</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="backgroundTint">@color/kw_teinte</item>
+        <item name="android:textColor">@color/kw_primaire</item>
+        <item name="iconTint">@color/kw_primaire</item>
+    </style>
+    <style name="Widget.Kw.Button.Text" parent="Widget.Material3.Button.TextButton">
+        <item name="android:minHeight">@dimen/kw_tactile</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/kw_primaire</item>
+    </style>
+
+    <!-- Cartes -->
+    <style name="Widget.Kw.Card" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardBackgroundColor">@color/blanc</item>
+        <item name="cardCornerRadius">@dimen/kw_carte_rayon</item>
+        <item name="cardElevation">@dimen/kw_carte_elevation</item>
+    </style>
+    <style name="Widget.Kw.Card.Flat" parent="Widget.Kw.Card">
+        <item name="cardElevation">0dp</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="strokeColor">@color/kw_separateur</item>
+    </style>
+</resources>

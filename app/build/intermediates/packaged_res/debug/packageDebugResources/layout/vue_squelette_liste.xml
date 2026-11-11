@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/kw_fond"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/fond_carte_blanc"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="12dp">
+
+        <bi.kwitaho.app.ui.widget.VueSquelette
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            app:rayonSquelette="10dp" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <bi.kwitaho.app.ui.widget.VueSquelette
+                android:layout_width="150dp"
+                android:layout_height="14dp"
+                app:rayonSquelette="7dp" />
+
+            <bi.kwitaho.app.ui.widget.VueSquelette
+                android:layout_width="100dp"
+                android:layout_height="10dp"
+                android:layout_marginTop="8dp"
+                app:rayonSquelette="5dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/fond_carte_blanc"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="12dp">
+
+        <bi.kwitaho.app.ui.widget.VueSquelette
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            app:rayonSquelette="10dp" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <bi.kwitaho.app.ui.widget.VueSquelette
+                android:layout_width="150dp"
+                android:layout_height="14dp"
+                app:rayonSquelette="7dp" />
+
+            <bi.kwitaho.app.ui.widget.VueSquelette
+                android:layout_width="100dp"
+                android:layout_height="10dp"
+                android:layout_marginTop="8dp"
+                app:rayonSquelette="5dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/fond_carte_blanc"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="12dp">
+
+        <bi.kwitaho.app.ui.widget.VueSquelette
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            app:rayonSquelette="10dp" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <bi.kwitaho.app.ui.widget.VueSquelette
+                android:layout_width="150dp"
+                android:layout_height="14dp"
+                app:rayonSquelette="7dp" />
+
+            <bi.kwitaho.app.ui.widget.VueSquelette
+                android:layout_width="100dp"
+                android:layout_height="10dp"
+                android:layout_marginTop="8dp"
+                app:rayonSquelette="5dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/fond_carte_blanc"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="12dp">
+
+        <bi.kwitaho.app.ui.widget.VueSquelette
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            app:rayonSquelette="10dp" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <bi.kwitaho.app.ui.widget.VueSquelette
+                android:layout_width="150dp"
+                android:layout_height="14dp"
+                app:rayonSquelette="7dp" />
+
+            <bi.kwitaho.app.ui.widget.VueSquelette
+                android:layout_width="100dp"
+                android:layout_height="10dp"
+                android:layout_marginTop="8dp"
+                app:rayonSquelette="5dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/fond_carte_blanc"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="12dp">
+
+        <bi.kwitaho.app.ui.widget.VueSquelette
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            app:rayonSquelette="10dp" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <bi.kwitaho.app.ui.widget.VueSquelette
+                android:layout_width="150dp"
+                android:layout_height="14dp"
+                app:rayonSquelette="7dp" />
+
+            <bi.kwitaho.app.ui.widget.VueSquelette
+                android:layout_width="100dp"
+                android:layout_height="10dp"
+                android:layout_marginTop="8dp"
+                app:rayonSquelette="5dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/fond_carte_blanc"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="12dp">
+
+        <bi.kwitaho.app.ui.widget.VueSquelette
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            app:rayonSquelette="10dp" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <bi.kwitaho.app.ui.widget.VueSquelette
+                android:layout_width="150dp"
+                android:layout_height="14dp"
+                app:rayonSquelette="7dp" />
+
+            <bi.kwitaho.app.ui.widget.VueSquelette
+                android:layout_width="100dp"
+                android:layout_height="10dp"
+                android:layout_marginTop="8dp"
+                app:rayonSquelette="5dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

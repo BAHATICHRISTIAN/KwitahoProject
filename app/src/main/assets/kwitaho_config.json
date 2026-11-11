@@ -1,0 +1,22 @@
+{
+  "version_modele": "B-2026-11-08",
+  "classes": [
+    "CBB",
+    "CBSD",
+    "CGM",
+    "CMD",
+    "Healthy"
+  ],
+  "entree": "1 x 224 x 224 x 3, float32, RGB, valeurs de 0 a 255 (normalisation incluse dans le modele)",
+  "seuils_provisoires": {
+    "sure": 0.8,
+    "diagnostic": 0.9,
+    "probable": 0.55,
+    "saine": 0.85
+  },
+  "validation": {
+    "exactitude": 0.812,
+    "macro_f1": 0.663,
+    "remarque": "mesures sur la validation, photos d'Ouganda, resultat indicatif"
+  }
+}

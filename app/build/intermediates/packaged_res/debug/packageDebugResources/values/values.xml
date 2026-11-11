@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blanc">#FFFFFF</color>
+    <color name="kw_alerte_fond">#FFE9A8</color>
+    <color name="kw_alerte_icone">#F59E0B</color>
+    <color name="kw_alerte_texte">#7A5A00</color>
+    <color name="kw_demo_fond">#FFF3CD</color>
+    <color name="kw_erreur">#C62828</color>
+    <color name="kw_fond">#F1F5F2</color>
+    <color name="kw_nav_inactif">#8A9099</color>
+    <color name="kw_primaire">#2E7D32</color>
+    <color name="kw_primaire_clair">#4CAF50</color>
+    <color name="kw_primaire_fonce">#1B5E20</color>
+    <color name="kw_separateur">#E5E7EB</color>
+    <color name="kw_squelette_base">#E1E8E3</color>
+    <color name="kw_squelette_reflet">#F7FAF8</color>
+    <color name="kw_teinte">#E3F2E6</color>
+    <color name="kw_texte">#1F2A37</color>
+    <color name="kw_texte_secondaire">#6B7280</color>
+    <color name="kw_voile">#66000000</color>
+    <color name="noir">#000000</color>
+    <dimen name="kw_bas_barre_hauteur">64dp</dimen>
+    <dimen name="kw_bouton_hauteur">52dp</dimen>
+    <dimen name="kw_carte_elevation">2dp</dimen>
+    <dimen name="kw_carte_rayon">14dp</dimen>
+    <dimen name="kw_marge">16dp</dimen>
+    <dimen name="kw_tactile">48dp</dimen>
+    <string name="accueil_astuces">Conseils pour vous</string>
+    <string name="accueil_astuces_plus">Lire plus</string>
+    <string formatted="true" name="accueil_bonjour">Bonjour, %1$s</string>
+    <string name="accueil_bonjour_1">Bonjour !</string>
+    <string name="accueil_derniers">Derniers diagnostics</string>
+    <string name="accueil_nouveau_diagnostic">Nouveau diagnostic</string>
+    <string name="accueil_rapides">Actions rapides</string>
+    <string name="accueil_soustitre">Prenez soin de vos plantes</string>
+    <string name="accueil_stat_malade">Malades</string>
+    <string name="accueil_stat_saine">Saines</string>
+    <string name="accueil_stat_total">Diagnostics</string>
+    <string name="accueil_vide">Aucun diagnostic pour le moment. Photographiez une feuille de manioc pour commencer.</string>
+    <string name="accueil_voir_tout">Voir tout</string>
+    <string name="aide_texte">1. Appuyez sur le bouton central pour scanner.\n2. Photographiez une feuille de manioc (idéalement 3 photos : haut, milieu, bas).\n3. Lisez le résultat et les conseils.\n4. Retrouvez vos diagnostics dans l\'historique.\n\nSi le résultat est incertain, reprenez la photo avec plus de lumière.</string>
+    <string name="analyse_texte">Nous analysons votre feuille avec l\'IA</string>
+    <string name="analyse_titre">Veuillez patienter...</string>
+    <string name="annuler">Annuler</string>
+    <string formatted="true" name="apropos_texte">Kwitaho (« prendre soin de... ») aide les agriculteurs du Burundi à reconnaître les maladies du manioc grâce à l\'intelligence artificielle, même sans Internet.\n\nVersion %1$s</string>
+    <string name="aujourdhui">Aujourd\'hui</string>
+    <string name="bandeau_demo">Mode démonstration : résultat simulé, ce n\'est pas un vrai diagnostic.</string>
+    <string formatted="true" name="cam_analyser">Analyser (%1$d)</string>
+    <string name="cam_astuce">Une seule feuille, bonne lumière, fond simple</string>
+    <string name="cam_capture">Prendre la photo</string>
+    <string formatted="true" name="cam_etape">Photo %1$d sur %2$d</string>
+    <string name="cam_etape_1">Haut de la plante</string>
+    <string name="cam_etape_2">Milieu de la plante</string>
+    <string name="cam_etape_3">Bas de la plante</string>
+    <string name="cam_flash">Flash</string>
+    <string name="cam_galerie">Galerie</string>
+    <string name="cam_max">Vous avez déjà 3 photos. Lancez l\'analyse.</string>
+    <string name="cam_perm_autoriser">Autoriser la caméra</string>
+    <string name="cam_perm_reglages">Ouvrir les réglages</string>
+    <string name="cam_perm_texte">Kwitaho a besoin de la caméra pour photographier les feuilles. Vous pouvez aussi choisir une photo dans la galerie.</string>
+    <string name="cam_perm_titre">Autorisation de la caméra</string>
+    <string name="cam_plus">Pour un meilleur résultat, prenez 3 photos (haut, milieu, bas).</string>
+    <string name="cam_retirer">Retirer cette photo</string>
+    <string name="cam_retour">Retour</string>
+    <string name="cam_titre">Prenez une photo de la feuille de manioc</string>
+    <string name="confidentialite_texte">Vos photos restent sur votre téléphone. Kwitaho ne les envoie nulle part sans votre accord explicite.</string>
+    <string name="conseil_1">Choisir des boutures saines, prélevées sur des plants sans symptôme.</string>
+    <string name="conseil_2">Utiliser des variétés recommandées par les services agricoles locaux (ISABU, techniciens).</string>
+    <string name="conseil_3">Surveiller régulièrement les champs, surtout après les premières pluies.</string>
+    <string name="conseil_4">Arracher et détruire les plants clairement malades pour limiter la propagation.</string>
+    <string name="conseil_5">Ne pas déplacer des boutures depuis des champs infectés vers des champs sains.</string>
+    <string name="conseil_6">Garder une bonne hygiène du champ : enlever les résidus infectés, nettoyer les outils.</string>
+    <string name="conseil_7">Éviter l\'excès d\'eau et respecter les espacements entre plants.</string>
+    <string name="conseil_entete">Conseils pour un manioc en bonne santé</string>
+    <string name="conseil_prudence">Quand la situation est grave ou incertaine, consultez un technicien agricole.</string>
+    <string name="conseil_titre">Conseils</string>
+    <string name="demo_etiquette">Démo</string>
+    <string name="detail_cause">Cause</string>
+    <string name="detail_consulter">Si la situation est grave, consultez un technicien agricole.</string>
+    <string name="detail_onglet_conseil">Conseils</string>
+    <string name="detail_onglet_description">Description</string>
+    <string name="detail_prevention">Prévention</string>
+    <string name="detail_prise_en_charge">Prise en charge</string>
+    <string name="detail_symptomes">Symptômes</string>
+    <string name="detail_titre">Détails</string>
+    <string name="diagnostic_incertain">Résultat incertain</string>
+    <string name="effacer_texte">Votre historique, vos photos et vos réglages seront supprimés de ce téléphone.</string>
+    <string name="effacer_titre">Effacer toutes les données ?</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="err_aucune_photo">Aucune photo à analyser. Prenez au moins une photo.</string>
+    <string name="err_camera_indisponible">La caméra n\'est pas disponible sur ce téléphone.</string>
+    <string name="err_camera_refusee">La caméra est refusée. Autorisez-la dans les réglages ou choisissez une photo dans la galerie.</string>
+    <string name="err_chargement_modele">Le modèle d\'analyse n\'a pas pu être chargé.</string>
+    <string name="err_image_invalide">Cette image ne peut pas être lue. Reprenez la photo.</string>
+    <string name="err_inconnue">Une erreur est survenue. Réessayez.</string>
+    <string name="err_stockage_plein">Le stockage du téléphone est plein. Libérez de l\'espace puis réessayez.</string>
+    <string name="err_titre">Un problème est survenu</string>
+    <string name="fermer">Fermer</string>
+    <string name="filtre_malade">Malades</string>
+    <string name="filtre_saine">Saines</string>
+    <string name="filtre_tout">Toutes</string>
+    <string name="hier">Hier</string>
+    <string name="historique_supprime">Diagnostic supprimé</string>
+    <string name="historique_supprimer_texte">Cette action est définitive.</string>
+    <string name="historique_supprimer_titre">Supprimer ce diagnostic ?</string>
+    <string name="historique_titre">Historique</string>
+    <string name="historique_vide_texte">Vos diagnostics apparaîtront ici.</string>
+    <string name="historique_vide_titre">Aucun diagnostic</string>
+    <string name="langue_continuer">Continuer</string>
+    <string name="langue_fr">Français</string>
+    <string name="langue_rn">Kirundi</string>
+    <string name="langue_soustitre">Vous pourrez la changer plus tard dans le profil.</string>
+    <string name="langue_sw">Kiswahili</string>
+    <string name="langue_titre">Choisissez votre langue</string>
+    <string name="maladie_cbb_cause">Bactérie qui se propage par les boutures infectées, les outils et l\'eau.</string>
+    <string name="maladie_cbb_conseil1">Évitez de travailler dans le champ quand les plants sont mouillés.</string>
+    <string name="maladie_cbb_conseil2">Si la maladie s\'étend, consultez un technicien agricole.</string>
+    <string name="maladie_cbb_desc">Maladie causée par une bactérie. Elle provoque des taches sur les feuilles, puis le flétrissement et le dessèchement.</string>
+    <string name="maladie_cbb_nature">Bactérie</string>
+    <string name="maladie_cbb_nom">Bactériose du manioc</string>
+    <string name="maladie_cbb_prevention1">Utiliser des boutures saines.</string>
+    <string name="maladie_cbb_prevention2">Nettoyer les outils après chaque travail dans un champ touché.</string>
+    <string name="maladie_cbb_prevention3">Détruire les résidus infectés et alterner les cultures.</string>
+    <string name="maladie_cbb_symptomes">Taches angulaires qui semblent gorgées d\'eau, flétrissement et dessèchement des feuilles.</string>
+    <string name="maladie_cbsd_cause">Virus de la striure brune, propagé par la mouche blanche et les boutures malades.</string>
+    <string name="maladie_cbsd_conseil1">Ne replantez pas à partir de plants touchés.</string>
+    <string name="maladie_cbsd_conseil2">Les racines peuvent être atteintes même si les feuilles semblent correctes : demandez conseil à un technicien.</string>
+    <string name="maladie_cbsd_desc">Maladie virale transmise par la mouche blanche et par les boutures infectées. Elle peut abîmer les racines même quand les feuilles paraissent peu touchées.</string>
+    <string name="maladie_cbsd_nature">Virus</string>
+    <string name="maladie_cbsd_nom">Striure brune du manioc</string>
+    <string name="maladie_cbsd_prevention1">Utiliser des boutures saines, prélevées sur des plants sans symptôme.</string>
+    <string name="maladie_cbsd_prevention2">Surveiller régulièrement les champs, surtout après les premières pluies.</string>
+    <string name="maladie_cbsd_prevention3">Arracher et détruire les plants malades.</string>
+    <string name="maladie_cbsd_symptomes">Jaunissement le long des nervures. Des dégâts sur tiges et racines peuvent exister sans signe net sur les feuilles.</string>
+    <string name="maladie_cgm_cause">......................</string>
+    <string name="maladie_cgm_conseil1">Consultez un technicien agricole pour confirmer.</string>
+    <string name="maladie_cgm_conseil2">Ne prenez aucune décision grave sur un seul résultat.</string>
+    <string name="maladie_cgm_desc">Les feuilles prennent un aspect marbré de vert et de jaune. La cause de cette classe doit être confirmée par un agronome.</string>
+    <string name="maladie_cgm_nature">...</string>
+    <string name="maladie_cgm_nom">Marbrure verte</string>
+    <string name="maladie_cgm_prevention1">Surveiller l\'évolution des plants touchés.</string>
+    <string name="maladie_cgm_prevention2">Éviter de replanter à partir de plants touchés.</string>
+    <string name="maladie_cgm_prevention3">Garder le champ propre.</string>
+    <string name="maladie_cgm_symptomes">Feuilles marbrées de vert et de jaune, petites et déformées.</string>
+    <string name="maladie_cmd_cause">Virus de la mosaïque du manioc, propagé par la mouche blanche et les boutures malades.</string>
+    <string name="maladie_cmd_conseil1">Ne déplacez pas de boutures d\'un champ infecté vers un champ sain.</string>
+    <string name="maladie_cmd_conseil2">Si beaucoup de plants sont touchés, consultez un technicien agricole.</string>
+    <string name="maladie_cmd_desc">Maladie virale transmise par la mouche blanche et par les boutures infectées. Elle réduit fortement la récolte.</string>
+    <string name="maladie_cmd_nature">Virus</string>
+    <string name="maladie_cmd_nom">Mosaïque du manioc</string>
+    <string name="maladie_cmd_prevention1">Utiliser des boutures saines, prélevées sur des plants sans symptôme.</string>
+    <string name="maladie_cmd_prevention2">Arracher et détruire les plants clairement malades.</string>
+    <string name="maladie_cmd_prevention3">Limiter la mouche blanche et demander conseil sur les variétés tolérantes.</string>
+    <string name="maladie_cmd_symptomes">Taches jaunes et vertes en mosaïque, feuilles déformées, plant rabougri.</string>
+    <string name="maladie_saine_cause">Aucune maladie détectée.</string>
+    <string name="maladie_saine_conseil1">Gardez de bonnes pratiques : bon espacement, pas d\'excès d\'eau.</string>
+    <string name="maladie_saine_conseil2">Refaites un scan de temps en temps, surtout après les pluies.</string>
+    <string name="maladie_saine_desc">La feuille est verte et uniforme. Aucune maladie n\'a été détectée par l\'application.</string>
+    <string name="maladie_saine_nature">Saine</string>
+    <string name="maladie_saine_nom">Feuille saine</string>
+    <string name="maladie_saine_prevention1">Continuer la surveillance régulière du champ.</string>
+    <string name="maladie_saine_prevention2">Choisir des boutures saines pour les prochaines plantations.</string>
+    <string name="maladie_saine_prevention3">Garder une bonne hygiène du champ.</string>
+    <string name="maladie_saine_symptomes">Feuille verte uniforme, sans taches ni déformation.</string>
+    <string name="maladies_titre">Maladies</string>
+    <string name="maladies_vide">Aucune maladie trouvée</string>
+    <string name="nav_accueil">Accueil</string>
+    <string name="nav_historique">Historique</string>
+    <string name="nav_maladies">Maladies</string>
+    <string name="nav_profil">Profil</string>
+    <string name="nav_scanner">Scanner</string>
+    <string name="nom_app">Kwitaho</string>
+    <string name="ok">OK</string>
+    <string formatted="true" name="photos_nombre">%1$d photos</string>
+    <string name="pref_flash">Activer le flash par défaut</string>
+    <string name="pref_titre">Préférences</string>
+    <string name="pres1_texte">Détectez les maladies du manioc avec l’IA et \assurez de meilleures récoltes.</string>
+    <string name="pres1_titre">Kwitaho</string>
+    <string name="pres2_texte">Avec Kwitaho recevez des conseils pratiques pour améliorer vos cultures</string>
+    <string name="pres2_titre">Protégez vos cultures</string>
+    <string name="pres_debut">Commencer</string>
+    <string name="pres_passer">Passer</string>
+    <string name="pres_suivant">Suivant</string>
+    <string name="profil_agriculteur">Votre nom</string>
+    <string name="profil_aide">Aide et support</string>
+    <string name="profil_apropos">À propos de Kwitaho</string>
+    <string name="profil_confidentialite">Confidentialité</string>
+    <string name="profil_effacer">Effacer mes données</string>
+    <string name="profil_langue">Langue</string>
+    <string name="profil_modifier_nom">Modifier le nom</string>
+    <string name="profil_nom_indice">Votre nom</string>
+    <string name="profil_preferences">Préférences</string>
+    <string name="profil_titre">Profil</string>
+    <string name="rapides_conseil">Conseils</string>
+    <string name="rapides_historique">Historique</string>
+    <string name="rapides_maladies">Maladies</string>
+    <string name="rapides_scanner">Scanner une feuille</string>
+    <string name="recherche_indice">Rechercher une maladie</string>
+    <string name="resultat_astuces">Conseils</string>
+    <string name="resultat_avertissement">Kwitaho aide au diagnostic et ne remplace pas l\'avis d\'un agronome ou d\'un technicien agricole.</string>
+    <string formatted="true" name="resultat_confiance">Confiance : %1$d %%</string>
+    <string name="resultat_details">Voir les détails</string>
+    <string name="resultat_incertain">Résultat incertain, reprenez la photo</string>
+    <string name="resultat_incertain_sous">Aucun diagnostic définitif n\'est possible avec cette photo.</string>
+    <string name="resultat_nouveau">Nouveau diagnostic</string>
+    <string name="resultat_pastille_maladie">Maladie détectée</string>
+    <string name="resultat_photo_astuce_1">Une seule feuille bien visible</string>
+    <string name="resultat_photo_astuce_2">Bonne lumière, sans ombre forte</string>
+    <string name="resultat_photo_astuce_3">Fond simple, image nette</string>
+    <string name="resultat_photo_astuces">Pour une meilleure photo</string>
+    <string name="resultat_probable">Résultat probable</string>
+    <string name="resultat_probable_sous">Nous vous conseillons de reprendre la photo pour confirmer.</string>
+    <string name="resultat_reprendre">Reprendre la photo</string>
+    <string name="resultat_saine">Feuille saine</string>
+    <string name="resultat_saine_sous">Aucune maladie détectée</string>
+    <string name="resultat_titre">Résultat</string>
+    <string name="slogan_app">Prendre soin de nos plantes</string>
+    <string name="slogan_app_long">L\'intelligence artificielle au service de la santé des plantes</string>
+    <string name="supprimer">Supprimer</string>
+    <style name="Kw.Text.Body" parent="Widget.Kw.TextView">
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineSpacingMultiplier">1.15</item>
+    </style>
+    <style name="Kw.Text.Secondary" parent="Widget.Kw.TextView">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/kw_texte_secondaire</item>
+    </style>
+    <style name="Kw.Text.Section" parent="Widget.Kw.TextView">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Kw.Text.Title" parent="Widget.Kw.TextView">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="ShapeAppearance.Kw.BottomRound" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">0dp</item>
+        <item name="cornerSizeTopRight">0dp</item>
+        <item name="cornerSizeBottomLeft">32dp</item>
+        <item name="cornerSizeBottomRight">32dp</item>
+    </style>
+    <style name="ShapeAppearance.Kw.Circle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="ShapeAppearance.Kw.Thumb" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10dp</item>
+    </style>
+    <style name="Theme.Kwitaho" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/kw_primaire</item>
+        <item name="colorOnPrimary">@color/blanc</item>
+        <item name="colorPrimaryContainer">@color/kw_teinte</item>
+        <item name="colorOnPrimaryContainer">@color/kw_primaire_fonce</item>
+        <item name="colorSecondary">@color/kw_primaire_clair</item>
+        <item name="colorOnSecondary">@color/blanc</item>
+        <item name="colorSecondaryContainer">@color/kw_teinte</item>
+        <item name="colorOnSecondaryContainer">@color/kw_primaire_fonce</item>
+        <item name="colorSurface">@color/blanc</item>
+        <item name="colorOnSurface">@color/kw_texte</item>
+        <item name="colorSurfaceVariant">@color/kw_teinte</item>
+        <item name="colorOnSurfaceVariant">@color/kw_texte_secondaire</item>
+        <item name="colorOutline">@color/kw_separateur</item>
+        <item name="colorError">@color/kw_erreur</item>
+        <item name="android:colorBackground">@color/kw_fond</item>
+        <item name="android:windowBackground">@color/kw_fond</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:textColorPrimary">@color/kw_texte</item>
+        <item name="android:textColorSecondary">@color/kw_texte_secondaire</item>
+    </style>
+    <style name="Widget.Kw.Button" parent="Widget.Material3.Button">
+        <item name="android:minHeight">@dimen/kw_bouton_hauteur</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="cornerRadius">14dp</item>
+        <item name="backgroundTint">@color/kw_primaire</item>
+        <item name="android:textColor">@color/blanc</item>
+    </style>
+    <style name="Widget.Kw.Button.Text" parent="Widget.Material3.Button.TextButton">
+        <item name="android:minHeight">@dimen/kw_tactile</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/kw_primaire</item>
+    </style>
+    <style name="Widget.Kw.Button.Tint" parent="Widget.Material3.Button.TonalButton">
+        <item name="android:minHeight">@dimen/kw_tactile</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="backgroundTint">@color/kw_teinte</item>
+        <item name="android:textColor">@color/kw_primaire</item>
+        <item name="iconTint">@color/kw_primaire</item>
+    </style>
+    <style name="Widget.Kw.Card" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardBackgroundColor">@color/blanc</item>
+        <item name="cardCornerRadius">@dimen/kw_carte_rayon</item>
+        <item name="cardElevation">@dimen/kw_carte_elevation</item>
+    </style>
+    <style name="Widget.Kw.Card.Flat" parent="Widget.Kw.Card">
+        <item name="cardElevation">0dp</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="strokeColor">@color/kw_separateur</item>
+    </style>
+    <style name="Widget.Kw.TextView" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColor">@color/kw_texte</item>
+    </style>
+    <declare-styleable name="VueSquelette">
+        <attr format="dimension" name="rayonSquelette"/>
+    </declare-styleable>
+</resources>

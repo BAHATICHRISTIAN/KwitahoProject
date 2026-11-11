@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Kwitaho" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/kw_primaire</item>
+        <item name="colorOnPrimary">@color/blanc</item>
+        <item name="colorPrimaryContainer">@color/kw_teinte</item>
+        <item name="colorOnPrimaryContainer">@color/kw_primaire_fonce</item>
+        <item name="colorSecondary">@color/kw_primaire_clair</item>
+        <item name="colorOnSecondary">@color/blanc</item>
+        <item name="colorSecondaryContainer">@color/kw_teinte</item>
+        <item name="colorOnSecondaryContainer">@color/kw_primaire_fonce</item>
+        <item name="colorSurface">@color/blanc</item>
+        <item name="colorOnSurface">@color/kw_texte</item>
+        <item name="colorSurfaceVariant">@color/kw_teinte</item>
+        <item name="colorOnSurfaceVariant">@color/kw_texte_secondaire</item>
+        <item name="colorOutline">@color/kw_separateur</item>
+        <item name="colorError">@color/kw_erreur</item>
+        <item name="android:colorBackground">@color/kw_fond</item>
+        <item name="android:windowBackground">@color/kw_fond</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:textColorPrimary">@color/kw_texte</item>
+        <item name="android:textColorSecondary">@color/kw_texte_secondaire</item>
+        <item name="android:windowSplashScreenBackground">@color/blanc</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_logo_feuille</item>
+    </style>
+</resources>
